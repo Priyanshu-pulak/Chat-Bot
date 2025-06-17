@@ -1,0 +1,19 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tesseract
+  - poppler
+  - libtiff
+  - pip
+  - pip:
+      - pytesseract
+      - pillow
+      - pdf2image
+      - pymupdf
+      - llama-index>=0.10.34
+      - llama-index-llms-ollama
+      - llama-index-embeddings-ollama       
+      - ollama
+      - jupyter
