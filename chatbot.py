@@ -12,8 +12,8 @@ PERSIST_DIR.mkdir(exist_ok=True)
 
 # ---------- LOCAL MODELS ----------
 llm = Ollama(
-    model="llama3",          # or "llama3:8b-instruct", "mistral", …
-    request_timeout=120.0,   # <- increase from default 30 s
+    model="llama3", 
+    request_timeout=120.0,
     stream=False             # set True if you want token streaming
 )
 embed_model = OllamaEmbedding(model_name="llama3")
@@ -37,6 +37,6 @@ while True:
     if q.lower() in {"exit", "quit"}:
         break
     try:
-        print("\n🤖 Bot:", query_engine.query(q), "\n")
+        print("\nBot:", query_engine.query(q), "\n")
     except Exception as e:
-        print("⚠️  Error:", e, "\n")
+        print("Error:", e, "\n")
