@@ -127,6 +127,3 @@ dependencies:
 - **Timeout on first query** → increase `request_timeout` in `chatbot.py` or pre‑warm: `ollama run model`.
 
 ---
-
-## 📝 License
-MIT — feel free to use and modify.
