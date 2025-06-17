@@ -34,19 +34,13 @@ Project/
 ### 1. Install Anaconda or Miniconda  
 Download and install from the official site.
 
-### 2. Clone this repo and go to the folder
-```bash
-git clone <your‑repo‑url>
-cd Project
-```
-
-### 3. Create & activate the conda environment
+### 2. Create & activate the conda environment
 ```bash
 conda env create -f environment.yml
 conda activate myenv
 ```
 
-### 4. Install & start Ollama
+### 3. Install & start Ollama
 ```bash
 ollama serve &
 ollama pull llama3     # or: ollama pull mistral
