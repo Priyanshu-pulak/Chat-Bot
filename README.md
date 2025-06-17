@@ -125,5 +125,3 @@ dependencies:
 ## ⚠️ Troubleshooting
 - **TypeError None × float** → switch to `mistral` and upgrade `llama-index`.  
 - **Timeout on first query** → increase `request_timeout` in `chatbot.py` or pre‑warm: `ollama run model`.
-
----
