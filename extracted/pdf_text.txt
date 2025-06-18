@@ -1,189 +1,127 @@
 
 
 --- Revision of Minimum Wages for Contract Workers wef 01042025.pdf | Page 1 ---
-=«east @ AL.co
-(A Government of India Enterprise)
+=«east @
+AL.co
+(A Governmentof India Enterprise)
 CORPORATE OFFICE
 INTER OFFICE MEMO
-CHRD/IR/7 .2/ 854/2025
+CHRD/IR/7.2/ 854/2025
 17 April 2025
-From:
-Dy. Manager (HRD)
-To:
-All EDs/GGMs/GMs/RMs
-Subject: Revision of Minimum rates of wages for the contract workers w.e.f. 01.04.2025.
-Consequent upon revision of Variable Dearness Allowance vide Ministry of Labour & Employment order No:
-File. No.
-1 /6(1 )/2025-LS-II dated 28.03.2025 of CLC (C) and further order of the Regional Labour Commissioner
-(Central), Bhubaneswar, Government of India revising the minimum rates of wages applicable for the above ground
-Bauxite Mines category, in respect of contract workers engaged in NALCO stand revised w.e.f. 01.04.2025. Further,
+From: To:
+Dy. Manager(HRD) All EDs/GGMs/GMs/RMs
+Subject: Revision ofMinimumrates ofwages forthe contractworkers w.e.f. 01.04.2025.
+Consequent upon revision ofVariable DearnessAllowance vide Ministry ofLabour& EmploymentorderNo:
+File. No. 1/6(1)/2025-LS-II dated 28.03.2025 of CLC (C) and further order of the Regional Labour Commissioner
+(Central), Bhubaneswar, Government of India revising the minimum rates ofwages applicable forthe above ground
+Bauxite Mines category, in respect ofcontractworkers engaged in NALCO stand revised w.e.f. 01.04.2025. Further,
 as per IOM No. CHRD/7.2/1700/2024 dated 03.10.2024, the additional element and canteen subsidy has been also
 revised w.e.f. 01.04.2025.
-Therefore, the
-revised
-NALCO defined
-Minimum wages w.r.t.
-Contract workers
-engaged
-through
+Therefore, the revised NALCO defined Minimum wages w.r.t. Contract workers engaged through
 Contractors in NALCO will be as under:
-Category
-Basic rate
-Rates of VOA
-Total rate of
-Additional element
-Total Minimum
-of wages
-w.e.f 01/04/2025
-minimum wages for
-of wage and
-Wages
-open cast Mines
-canteen subsidy
+Category Basic rate Rates ofVOA Total rate of Additional element Total Minimum
+ofwages w.e.f01/04/2025 minimum wages for ofwage and Wages
+open cast Mines canteen subsidy
 w.e.f. 01/04/2025
-(01)
-(02)
-(03)
-(04)
-(05)
-(06)
-Unskilled
-Rs. 350.00
-Rs. 191.00
-Rs. 541.00
-Rs.55.08/-
-Rs. 626.12
-Semi-skilled
-Rs. 437.00
-Rs. 237.00
-Rs. 674.00
-+
-Rs. 759.12
-Skilled/Clerical
-Rs. 523.00
-Rs. 282.00
-Rs. 805.00
-Rs.30.04/-
-Rs. 890.12
-Highly skilled
-Rs. 610.00
-Rs. 328.00
-Rs. 938.00
-Rs.
-1023.12
-As per the extant policy, the above rates as indicated in column No. 6 will be applicable for contract workers
-engaged in all units/offices of the company w.e.f. 01/04/2025. Further, the additional element of wages and canteen
-subsidy as indicated in column No. 5 will also be applicable to all Regional offices/Port Facilities, Vizag as per our
+(01) (02) (03) (04) (05) (06)
+Unskilled Rs. 350.00 Rs. 191.00 Rs. 541.00 Rs.55.08/- Rs. 626.12
+Semi-skilled Rs. 437.00 Rs. 237.00 Rs. 674.00 + Rs. 759.12
+Skilled/Clerical Rs. 523.00 Rs. 282.00 Rs. 805.00 Rs.30.04/- Rs. 890.12
+Highlyskilled Rs. 610.00 Rs. 328.00 Rs. 938.00 Rs. 1023.12
+As perthe extant policy, the above rates as indicated in column No. 6 will be applicableforcontractworkers
+engaged in all units/offices ofthe companyw.e.f. 01/04/2025. Further, the additional element ofwages and canteen
+subsidy as indicated in column No. 5 will also be applicable to all Regional offices/Port Facilities, Vizag as perour
 earlier IOM No. CHRD/IR/7.2/1181/2014, dated 17/05/2014.
-All other guidelines and procedures on the subject remain unchanged.
-This issues with the approval of the Competent Authority.
+All otherguidelines and procedures on the subject remain unchanged.
+This issues with the approval ofthe CompetentAuthority.
 Distribution (by e- mail)
-1.
-DGM(HRD), Refinery/ DGM(HRD), CMD / AGM(HRD), Smelter I AGM (HRD), PF Vizag,/ AGM(F), Chennai /
+1. DGM(HRD), Refinery/ DGM(HRD), CMD/AGM(HRD), SmelterIAGM (HRD), PF Vizag,/ AGM(F), Chennai/
 AGM(Mech), Mumbai
-2.
-SMI(HRD), HCE / SM(Mech) Admn, CO/ M(Civil),CO / OM (CSR), CO/ DM(HRD) -Smelter/ DM(HRD) CPP/
-DM(HRD) Refinery/ DM(HRD) Mines/ SM(F)Kolkata/ DM(F)New Delhi/ DM(Elec)New Delhi/
+2. SMI(HRD), HCE / SM(Mech) Admn, CO/ M(Civil),CO / OM (CSR), CO/ DM(HRD) -Smelter/ DM(HRD) CPP/
+DM(HRD) Refinery/ DM(HRD) Mines/ SM(F)Kolkata/ DM(F)NewDelhi/ DM(Elec)New Delhi/
 DM(F)Mumbai/DM(F) -CO/ DM (Admin), PF Vizag
-3.
-AII Notice Boards.
-For kind information of:
-•
-D(F)/D(C)/0(P)/0(P&T)/D(HR)/CVO.
-•
-TS to CMD- For kind information of CMD
+3. AII Notice Boards.
+Forkind information of:
+• D(F)/D(C)/0(P)/0(P&T)/D(HR)/CVO.
+• TS to CMD- Forkind information of CMD
 
 --- SOW 2.pdf | Page 1 ---
-1. 
-SCOPE OF WORK 
- 
-1.1
-The scope of work includes Maintenance & Support of 
-1.1.1 
-Existing web application developed in ASP .Net / and SQL database at Corporate Office,
-Bhubaneswar, Odisha. 
-1.1.2 
-Development of add-on module to the running application. 
-1.1.3 
-Mobile Applications 
-1.1.4 
-Data Analytics 
-1.2 Onsite placing of Senior Programmers at the Corporate Office, Bhubaneswar NALCO 
-i.e. Corporate Office, Bhubaneswar, Odisha. 
-1.3 The Senior Programmers shall design, develop, test, provide handholding support, 
-maintain and prepare documents for the assigned applications. 
-1.4 Programmers should adopt the secure programming methodologies meeting OWASP 
-Top 10 Vulnerabilities Compliance to Ensure Secure Code and to make the applications 
-secure and error free. 
-1.5 Programmers should follow Secure Coding Practices and comply to GIGW . 
- 
-2. 
-Specification of Programmers is as follows: 
-    Level – High Skilled 
-Qualification – BE / B.Tech / MCA 
-Experience – Minimum 3 years in respective areas as follows: 
- 
- 
-Sl. 
-Category 
-Area of expertise
-A 
-Senior 
-Programmer 
-(ASP.NET) 
-Programming in .Net on standard RDBMS like MS 
-SQL/SYBASE/Postgres 
-SQL, 
-Responsive 
-design 
-methodology, MVC and web forms development framework, 
-c# and vb scripting 
-B 
-Mobile App 
- Xamarin/Ionic Angular/ React Native Mobile Apps 
- Programming in .Net on standard RDBMS like MS 
-SQL/SYBASE/Postgres 
-SQL, 
-Responsive 
-design 
-methodology, MVC and web forms development 
-framework, c# and vb scripting 
-C 
-Acceptance 
+| 0   | 1          | 2                                                     |
+|:----|:-----------|:------------------------------------------------------|
+| Sl. | Category   | Area of expertise                                     |
+| A   | Senior     | Programming in .Net on standard RDBMS like MS         |
+|     | Programmer | SQL/SYBASE/Postgres SQL, Responsive design            |
+|     | (ASP.NET)  | methodology, MVC and web forms development framework, |
+|     |            | c# and vb scripting                                   |
+| B   | Mobile App |  Xamarin/Ionic Angular/ React Native Mobile Apps     |
+|     |            |  Programming in .Net on standard RDBMS like MS       |
+|     |            | SQL/SYBASE/Postgres SQL, Responsive design            |
+|     |            | methodology, MVC and web forms development            |
+|     |            | framework, c# and vb scripting                        |
+| C   | Acceptance | Through interview                                     |
+|     | Criteria   |                                                       |
+
+1. SCOPE OF WORK
+1.1 The scope of work includes Maintenance & Support of
+1.1.1 Existing web application developed in ASP .Net / and SQL database at Corporate Office,
+Bhubaneswar, Odisha.
+1.1.2 Development of add-on module to the running application.
+1.1.3 Mobile Applications
+1.1.4 Data Analytics
+1.2 Onsite placing of Senior Programmers at the Corporate Office, Bhubaneswar NALCO
+i.e. Corporate Office, Bhubaneswar, Odisha.
+1.3 The Senior Programmers shall design, develop, test, provide handholding support,
+maintain and prepare documents for the assigned applications.
+1.4 Programmers should adopt the secure programming methodologies meeting OWASP
+Top 10 Vulnerabilities Compliance to Ensure Secure Code and to make the applications
+secure and error free.
+1.5 Programmers should follow Secure Coding Practices and comply to GIGW .
+2. Specification of Programmers is as follows:
+Level – High Skilled
+Qualification – BE / B.Tech / MCA
+Experience – Minimum 3 years in respective areas as follows:
+Sl. Category Area of expertise
+A Senior Programming in .Net on standard RDBMS like MS
+Programmer SQL/SYBASE/Postgres SQL, Responsive design
+(ASP.NET) methodology, MVC and web forms development framework,
+c# and vb scripting
+B Mobile App
+ Xamarin/Ionic Angular/ React Native Mobile Apps
+ Programming in .Net on standard RDBMS like MS
+SQL/SYBASE/Postgres SQL, Responsive design
+methodology, MVC and web forms development
+framework, c# and vb scripting
+C Acceptance Through interview
 Criteria
-Through interview
 
 --- SCC 2.pdf | Page 1 ---
-1. SPECIAL TERMS AND CONDITIONS 
- 
-1. The onsite placing of programmer shall be selected by NALCO team, after evaluating 
-candidate through selection process. Party should submitted the CV for scrutiny and send the 
-candidates for selection process at NALCO CORPORATE OFFICE to evaluate suitability for 
-each project / engagement. 
-2. The selected programmer shall be deployed at NALCO within 2 week of issue of this work 
-order.( 2 week include the submission of CV of candidate and selection of candidate) 
-3. Programmer shall be requisitioned on need basis for a period from 3 month to 6 months. 
-Thereafter further requirement for the programmer shall be reviewed. 
-4. The performance and day-to-day work delivery of deployed work staff shall be 
-monitored/guided from contractor’s office(off-site) with at least one day onsite (at NALCO 
-office) per month. 
-5. In the event of inadequate performance / delivery by deployed / hired programmer / manpower, 
-NALCO shall dismiss the deployed / hired manpower and ask for an appropriate substitute 
-6. In case of emergency the programmer may be called during off hours. 
-7. In case of programmer is on leave a suitable replacement must be provided by vendor. 
-8. NALCO shall not deploy any person without any Appointment Letter and ID card issued by 
-the agency/contractor. 
-9. In case a deployed / hired manpower leaves in between or does not turn up without any 
-information, vendor / agency shall be informed for providing the substitute. 
-10. Subject to receipt of the assignment the successful bidder has to set up a office in 
-Bhubaneswar for dealing various activities required time to time 
-11. In case required, the programmer may be deputed to our works sites at Damanjodi, Koraput 
-and/or Nalconagar, Angul 
-12. The contractor has to agree/sign to the Non-disclosure agreement as per NALCO’s format. 
-13. The contractor has to agree/sign the declaration by contract staff and contractor for adherence 
-to the acceptable IT usage policy of NALCO. 
- 
- 
-2. Service-level agreement (SLA)  
-In the event of unauthorized absence without replacement, Rs.1000/- per day shall penalized 
+1. SPECIAL TERMS AND CONDITIONS
+1. The onsite placing of programmer shall be selected by NALCO team, after evaluating
+candidate through selection process. Party should submitted the CV for scrutiny and send the
+candidates for selection process at NALCO CORPORATE OFFICE to evaluate suitability for
+each project / engagement.
+2. The selected programmer shall be deployed at NALCO within 2 week of issue of this work
+order.( 2 week include the submission of CV of candidate and selection of candidate)
+3. Programmer shall be requisitioned on need basis for a period from 3 month to 6 months.
+Thereafter further requirement for the programmer shall be reviewed.
+4. The performance and day-to-day work delivery of deployed work staff shall be
+monitored/guided from contractor’s office(off-site) with at least one day onsite (at NALCO
+office) per month.
+5. In the event of inadequate performance / delivery by deployed / hired programmer / manpower,
+NALCO shall dismiss the deployed / hired manpower and ask for an appropriate substitute
+6. In case of emergency the programmer may be called during off hours.
+7. In case of programmer is on leave a suitable replacement must be provided by vendor.
+8. NALCO shall not deploy any person without any Appointment Letter and ID card issued by
+the agency/contractor.
+9. In case a deployed / hired manpower leaves in between or does not turn up without any
+information, vendor / agency shall be informed for providing the substitute.
+10. Subject to receipt of the assignment the successful bidder has to set up a office in
+Bhubaneswar for dealing various activities required time to time
+11. In case required, the programmer may be deputed to our works sites at Damanjodi, Koraput
+and/or Nalconagar, Angul
+12. The contractor has to agree/sign to the Non-disclosure agreement as per NALCO’s format.
+13. The contractor has to agree/sign the declaration by contract staff and contractor for adherence
+to the acceptable IT usage policy of NALCO.
+2. Service-level agreement (SLA)
+In the event of unauthorized absence without replacement, Rs.1000/- per day shall penalized
 on the vendor.
