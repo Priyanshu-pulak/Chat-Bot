@@ -7,6 +7,8 @@ dependencies:
   - poppler
   - libtiff
   - pip
+  - pandas
+  - pdfplumber
   - pip:
       - pytesseract
       - pillow
@@ -16,4 +18,5 @@ dependencies:
       - llama-index-llms-ollama
       - llama-index-embeddings-ollama       
       - ollama
+      - tabulate
       - jupyter
