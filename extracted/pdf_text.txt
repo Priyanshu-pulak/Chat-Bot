@@ -1,6 +1,6 @@
 
 
---- Revision of Minimum Wages for Contract Workers wef 01042025.pdf | Page 1 ---
+--- Revision of Minimum Wages for Contract Workers wef 01042025.pdf ---
 =«east @
 AL.co
 (A Governmentof India Enterprise)
@@ -45,7 +45,7 @@ Forkind information of:
 • D(F)/D(C)/0(P)/0(P&T)/D(HR)/CVO.
 • TS to CMD- Forkind information of CMD
 
---- SOW 2.pdf | Page 1 ---
+--- SOW 2.pdf ---
 | 0   | 1          | 2                                                     |
 |:----|:-----------|:------------------------------------------------------|
 | Sl. | Category   | Area of expertise                                     |
@@ -94,7 +94,7 @@ framework, c# and vb scripting
 C Acceptance Through interview
 Criteria
 
---- SCC 2.pdf | Page 1 ---
+--- SCC 2.pdf ---
 1. SPECIAL TERMS AND CONDITIONS
 1. The onsite placing of programmer shall be selected by NALCO team, after evaluating
 candidate through selection process. Party should submitted the CV for scrutiny and send the

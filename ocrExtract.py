@@ -31,7 +31,7 @@ for pdf_path in PDF_DIR.glob("*.pdf"):
                 text = pytesseract.image_to_string(image, lang="eng")
 
             with OUTPUT_FILE.open("a", encoding="utf-8") as out:
-                out.write(f"\n\n--- {pdf_path.name} | Page {i} ---\n")
+                out.write(f"\n\n--- {pdf_path.name} ---\n")
                 for block in table_md_blocks:
                     out.write(block + "\n\n")      # table(s), if any
                 out.write(text)                     # regular text / OCR
