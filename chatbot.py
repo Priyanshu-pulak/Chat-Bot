@@ -6,20 +6,19 @@ from llama_index.core import (
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 
-DATA_FILE   = Path("extracted/pdf_text.txt")
-PERSIST_DIR = Path("index_store")
+DATA_FILE   = Path('extracted', 'pdf_text.txt')
+PERSIST_DIR = Path('index_store')
 PERSIST_DIR.mkdir(exist_ok=True)
 
-# ---------- LOCAL MODELS ----------
 llm = Ollama(
-    model="llama3", 
-    request_timeout=120.0,
-    stream=False             # set True if you want token streaming
+    model = "llama3", 
+    request_timeout = 180.0,
+    stream = False
 )
+
 embed_model = OllamaEmbedding(model_name="llama3")
-Settings.llm = llm           # make them global defaults
+Settings.llm = llm           
 Settings.embed_model = embed_model
-# ----------------------------------
 
 if not any(PERSIST_DIR.iterdir()):        # build the index once
     docs  = SimpleDirectoryReader(input_files=[str(DATA_FILE)]).load_data()
