@@ -1,14 +1,13 @@
-from pathlib import Path # Handling path like data, extracted
+from pathlib import Path 
 from pdf2image import convert_from_path
 import pdfplumber 
 import pytesseract
 from PIL import Image
 import pandas as pd
-import fitz  # PyMuPDF
 
 PDF_DIR = Path("data")
 OUTPUT_DIR = Path("extracted")
-OUTPUT_FILE = OUTPUT_DIR / "pdf_text.txt"
+OUTPUT_FILE = OUTPUT_DIR / "extracted_info.txt"
 OUTPUT_DIR.mkdir(exist_ok=True)
 OUTPUT_FILE.write_text("", encoding="utf-8")
 
