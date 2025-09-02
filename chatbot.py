@@ -11,20 +11,20 @@ PERSIST_DIR = Path('index_store')
 PERSIST_DIR.mkdir(exist_ok=True)
 
 llm = Ollama(
-    model = "llama3", 
-    request_timeout = 180.0,
-    stream = False
+    model = "mistral", 
+    request_timeout = 600.0,
+    stream = True
 )
 
-embed_model = OllamaEmbedding(model_name="llama3")
+embed_model = OllamaEmbedding(model_name="nomic-embed-text")
 Settings.llm = llm           
 Settings.embed_model = embed_model
 
-if not any(PERSIST_DIR.iterdir()):        # build the index once
+if not any(PERSIST_DIR.iterdir()):
     docs  = SimpleDirectoryReader(input_files=[str(DATA_FILE)]).load_data()
-    index = VectorStoreIndex.from_documents(docs)   # uses local embeds
+    index = VectorStoreIndex.from_documents(docs)
     index.storage_context.persist(persist_dir=PERSIST_DIR)
-else:                                     # then just load it
+else:
     storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
     index = load_index_from_storage(storage_context)
 
